@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DribbbleKotlinApp</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="follower">Follower：</string>
+    <string name="following">Following：</string>
+
+    <string name="shot">Shots：</string>
+    <string name="like">Likes：</string>
+    <string name="comment">Comments：</string>
+
+</resources>
