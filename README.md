@@ -1,24 +1,10 @@
-# DribbbleSampleApp
+# DribbbleKotlinApp
 This is a sample app written in kotlin.
 This project is based off of [Dribble](http://developer.dribbble.com/), which is a super great design web site where anyone can share their ideas or thoughts with their drawings.
 
 ![Y5eL9Z](http://cdn.makeagif.com/media/12-15-2015/Y5eL9Z.gif)
 
-
-
-# How to use 
-This app requires you to have your own API key. 
-You can get it in the Dribbble web site above.
-Once you get it, just put it in the code like this.
-
-```java
-    companion object {
-
-        const val ACCESS_TOKEN = "YOUR API KEY"
-    }
-```
-
-You are very welcome to fork it or shoot me your pull request, thank you.
+it would be really appreciated if you give me a pull request, thank you.
 
 # Lisence
 ```
